@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        LTC.info address prefill
+// @name        LTC.info prefill GM
 // @namespace   unoriginal-but-unique
 // @description LTC.info address prefill code for Greasemonkey
 // @icon        http://litecoinfaucet.info/view/images/favicon.png
