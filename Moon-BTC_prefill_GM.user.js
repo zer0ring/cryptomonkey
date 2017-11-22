@@ -2,7 +2,7 @@
 // @name        Moon BTC prefill GM
 // @namespace   unoriginal-but-unique
 // @description Moon BTC address prefill code for Greasemonkey
-// @icon        http://moonbit.co.in/favicon.png
+// @icon        http://moonbit.co.in/img/btc.png
 // @version     1
 // @copyright   2017, neuromancer
 // @homepageURL https://steemit.com/@neuromancer
