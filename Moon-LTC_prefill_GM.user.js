@@ -2,7 +2,7 @@
 // @name        Moon LTC prefill GM
 // @namespace   unoriginal-but-unique
 // @description Moon LTC address prefill code for Greasemonkey
-// @icon        http://moonliteco.in/img/btc.png
+// @icon        http://moonliteco.in/img/litecoin.png
 // @version     1
 // @copyright   2017, neuromancer
 // @homepageURL https://steemit.com/@neuromancer
