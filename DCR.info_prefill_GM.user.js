@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        DCR.info address prefill
-// @namespace   faucet address prefill
+// @name        DCR.info prefill GM
+// @namespace   unoriginal-but-unique
 // @description DCR.info address prefill code for Greasemonkey
 // @icon        http://decredfaucet.info/view/images/favicon.png
 // @version     1
