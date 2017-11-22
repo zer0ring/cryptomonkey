@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        XRP.info prefill
+// @name        XRP.info prefill GM
 // @namespace   unoriginal-but-unique
 // @description XRP.info address prefill code for Greasemonkey
 // @icon        http://xrpfaucet.info/view/images/favicon.png
