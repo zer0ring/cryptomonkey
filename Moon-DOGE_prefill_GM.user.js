@@ -2,7 +2,7 @@
 // @name        Moon DOGE prefill GM
 // @namespace   unoriginal-but-unique
 // @description Moon DOGE address prefill code for Greasemonkey
-// @icon        http://moondoge.co.in/favicon.png
+// @icon        http://moondoge.co.in/img/dogecoin.png
 // @version     1
 // @copyright   2017, neuromancer
 // @homepageURL https://steemit.com/@neuromancer
