@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        DASH.info prefill
+// @name        DASH.info prefill GM
 // @namespace   unoriginal-but-unique
 // @description DASH.info address prefill code for Greasemonkey
 // @icon        http://www.dashfaucet.net/view/images/favicon.png
