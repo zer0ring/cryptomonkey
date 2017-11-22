@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        ETH.info prefill
+// @name        ETH.info prefill GM
 // @namespace   unoriginal-but-unique
 // @description ETH.info address prefill code for Greasemonkey
 // @icon        http://ethereumfaucet.info/view/images/favicon.png
